@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_scenario1">Scenario 1</string>
+    <string name="menu_scenario2">Scenario 2</string>
+
+    <string name="item1">Item 1</string>
+    <string name="item2">Item 2</string>
+    <string name="item3">Item 3</string>
+    <string name="item4">Item 4</string>
+    <string name="item5">Item 5</string>
+
+    <string name="text_dummy_fragment">Dummy Fragment %d</string>
+
+    <string name="diagonal_item_left">Item Left</string>
+    <string name="diagonal_item_center">Item Center</string>
+    <string name="diagonal_item_right">Item Right</string>
+
+    <string name="selected_item">Selected Item</string>
+
+    <string name="btn_red">Red</string>
+    <string name="btn_orange">Orange</string>
+    <string name="btn_green">Green</string>
+    <string name="title_activity_scenario2">Scenario2Activity</string>
+
+    <string name="msg_getting_destinations">Getting destinations. Please wait...</string>
+    <string name="err_no_destinations">Sorry, there are no destinations on server.</string>
+    <string name="err_getting_destinations">Getting destinations. Please try again later.\n(Error %s)</string>
+    <string name="lbl_select_destination">Select Destination</string>
+    <string name="lbl_mode_of_transport">Mode of Transport:</string>
+    <string name="mode_car">Car - %s</string>
+    <string name="mode_train">Train - %s</string>
+    <string name="btn_navigate">Navigate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dlg_title_error">Error</string>
+    <string name="dlg_btn_ok">OK</string>
+
+</resources>
