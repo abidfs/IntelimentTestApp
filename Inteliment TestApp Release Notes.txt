@@ -1,0 +1,16 @@
+Release Notes : Intelliment TestApp
+Author 		  : Abid Faruk Sayyad
+Date 		  : 14 Mar 2016
+
+1. The application is built using Android studio 2.0 Preview 7 and gadle 1.5+
+2. For simplicity I have used 2 different activities for Scenario1 and Scenario2. However instead of activities we can also have fraglemts.
+3. Navigation drawer is used for switching between activities.
+4. Regarding the build flavours; there are 2 flavours
+	i. demo : the application id in this case is "com.sayyadabid.testapp.demo"
+	ii. full : the application id in this case is "com.sayyadabid.testapp.demo"
+   Also there are 2 different build types
+    i. debug : application version name is suffixed with "-debug" and debug.keystore is used to sign the application.
+	ii. release : application version name is suffixed with "-release" and release.keystore is used to sign the application.
+5. The code is clean and javaodcs are inplace wherever required.
+6. Gson 2.4 library is used to parse the response json to User defined object.
+7. Playservices 8.4.0 library is used to display maps.
